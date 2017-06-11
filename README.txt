@@ -1,0 +1,2 @@
+	This is a windows store application to fetch news from different sources, written in c# and XAML using visual studio, you can download this app from the windows store with it's name Newsin.
+	This same code with some modifications to XAML can be used with visual studio for writing and publishing it to app and play store, this is made possible with Xamarin software, which we can use to build cross platform application using c# and Xamarin XAML. In this application I've used Microsoft Xaml.
